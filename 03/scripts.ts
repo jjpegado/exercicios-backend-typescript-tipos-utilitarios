@@ -28,4 +28,4 @@ const conectar = conexao ({
     dbname: 'primeira'  
 })
 
-conectar.driver = 'mySQL' //Readonly não pode fazer mudanças so leitura
+// conectar.driver = 'mySQL' //Readonly não pode fazer mudanças so leitura
